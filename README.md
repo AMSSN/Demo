@@ -6,3 +6,5 @@ some demos
 将mask掩码图转换成yolo格式的txt文件。
 
 mask为灰度图，每个类别的像素值为1、2、3.....
+
+txt为yolo格式的，第一个字符是类别index
